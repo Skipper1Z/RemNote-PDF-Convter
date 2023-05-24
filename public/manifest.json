@@ -1,17 +1,16 @@
 {
+  "author": "Skipper",
+  "name": "PDF Converter with text and images",
+  "description": "PDF with text and images support",
+  "enableOnMobile": false,
+  "id": "Skipper-nhjhldy",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
+  "repoUrl": "https://github.com/Skipper1Z/RemNote-PDF-Convter",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {
